@@ -2,15 +2,15 @@
 
 [![Releases](https://img.shields.io/github/release/KoiClient/Client.svg)](https://github.com/KoiClient/Client/releases)
 [![Issues](https://img.shields.io/github/issues/KoiClient/Client)](https://github.com/KoiClient/Client/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/KoiClient/Client)](https://github.com/Offline-CheatBreaker/Client/pulls)
-<a href="https://discord.offlinecheatbreaker.com"><img src="https://discord.com/api/guilds/792160136058765343/widget.json" alt="Discord Server"></a>
+[![Pull Requests](https://img.shields.io/github/issues-pr/KoiClient/Client)](https://github.com/KoiClient/Client/pulls)
+<a href="https://discord.koiclient.com"><img src="https://discord.com/api/guilds/792160136058765343/widget.json" alt="Discord Server"></a>
 
-[![amd64](https://img.shields.io/badge/amd64-yes-green.svg)](https://offlinecheatbreaker.com/download/)
+[![amd64](https://img.shields.io/badge/amd64-yes-green.svg)](https://koiclient.com/download/)
 ![i386](https://img.shields.io/badge/i386-no-red.svg)
-[![Windows](https://img.shields.io/badge/Windows-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Windows-installation-instructions)
-[![macOS](https://img.shields.io/badge/macOS-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/MacOS-installation-instructions)
-[![Linux](https://img.shields.io/badge/Ubuntu/Debian-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Ubuntu-and-Debian-installation-instructions)
-[![Linux](https://img.shields.io/badge/Linux-yes-green.svg)](https://github.com/Offline-CheatBreaker/Client/wiki/Linux-(Other)-installation-instructions)
+[![Windows](https://img.shields.io/badge/Windows-yes-green.svg)](https://github.com/KoiClient/Client/wiki/Windows-installation-instructions)
+[![macOS](https://img.shields.io/badge/macOS-yes-green.svg)](https://github.com/KoiClient/Client/wiki/MacOS-installation-instructions)
+[![Linux](https://img.shields.io/badge/Ubuntu/Debian-yes-green.svg)](https://github.com/KoiClient/Client/wiki/Ubuntu-and-Debian-installation-instructions)
+[![Linux](https://img.shields.io/badge/Linux-yes-green.svg)](https://github.com/KoiClient/Client/wiki/Linux-(Other)-installation-instructions)
 
 KoiClient is a modpack and FPS booster combined! In most cases, KoiClient more than doubles your normal Minecraft frames!
 
